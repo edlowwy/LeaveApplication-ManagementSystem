@@ -1,0 +1,2 @@
+# LeaveApplication-ManagementSystem
+This is a proficient and operational Leave Application and Management System implemented through the utilization of the C programming language. It constitutes a comprehensive management platform wherein employees can submit leave requests and review the status of their leave approvals. Supervisors possess the authority to grant or decline leave requests, while administrators maintain control over system registration and management functions.
